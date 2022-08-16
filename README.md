@@ -4,16 +4,16 @@ A centrifuge is a device that uses centrifugal force to separate various compone
 This document outlines the engineering URS, physics, design, bill of materials, fabrication, electronics, and coding of the Ce11 centrifuge.
 
 ### Table of Contents
-[URS](#urs)
-[Physics](#physics)
-[Design](#design)
-[Bill of Materials](#bill_of_material)
-[Electronics](#electronics)
-[Coding](#code)
-[Modeling](#modeling)
-[Fabrication](#fabrication)
-[Operations](#operation)
-[Notes](#notes)
+1. [URS](#urs)
+2. [Physics](#physics)
+3. [Design](#design)
+4. [Bill of Materials](#bill_of_material)
+5. [Electronics](#electronics)
+6. [Coding](#code)
+7. [Modeling](#modeling)
+8. [Fabrication](#fabrication)
+9. [Operations](#operation)
+10. [Notes](#notes)
 
 # [URS](#urs)
 
